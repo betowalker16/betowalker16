@@ -5,7 +5,7 @@
 
 ```javascript
 class Betowalker16 {
-    constructor() {
+    constructor(nombre, edad, ocupacion, pais) {
         this.nombre = 'Roberto Ramirez Rios';
         this.edad = 23;
         this.ocupacion = 'Desarrollador Web';
