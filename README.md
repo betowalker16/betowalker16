@@ -5,11 +5,27 @@
 
 
 ## Sobre mi
-- Mexico, Veracruz :desert_island:
-- 23 años
-- Puebla/Puebla :cityscape:
-- Desarrollador Web :desktop_computer:
-- UPAEP :briefcase:
+
+```javascript
+class Betowalker16 {
+    constructor() {
+        this.nombre = 'Roberto Ramirez Rios';
+        this.edad = 23;
+        this.ocupacion = 'Desarrollador Web';
+        this.pais = 'Mexico';
+    }
+
+    trabajo() {
+        return 'Actualmente trabajo en UPAEP con el puesto de Desarrollador Full Stack UX Semi SR';
+    }
+
+    pasatiempo() {
+        return 'Algunos de mis pasatiempos son videojuegos tanto de consola como PC y el voleibol';
+    }
+}
+
+
+```
 
 ## Social
 <a href="https://www.facebook.com/RmzRoberto"  target="_blank"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a>
