@@ -7,8 +7,8 @@
 class Betowalker16 {
     constructor() {
         this.nombre = 'Roberto Ramirez Rios';
-        this.edad = 23;
-        this.ocupacion = 'Desarrollador Web';
+        this.edad = 24;
+        this.ocupacion = 'Desarrollador Web Full Stack y Desarrollador de aplicaciones moviles android';
         this.pais = 'Mexico';
     }
 
