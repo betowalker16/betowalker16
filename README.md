@@ -9,7 +9,8 @@ class Betowalker16 {
         this.nombre = 'Roberto Ramirez Rios';
         this.edad = 24;
         this.ocupacion = 'Desarrollador Web Full Stack y Desarrollador de aplicaciones moviles android';
-        this.pais = 'Mexico';
+        this.nacionalidad = 'Mexicano';
+        this.origen = Coatzacoalcos, Veracruz;
     }
 
     trabajo() {
