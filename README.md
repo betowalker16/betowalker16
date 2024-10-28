@@ -1,8 +1,6 @@
 
 <div align="center"><h1>Hola, soy Roberto Ramirez 👋</h1></div>
 
-<img src="https://media.licdn.com/dms/image/D5616AQGh18KdMyduag/profile-displaybackgroundimage-shrink_350_1400/0/1717556705674?e=1723680000&v=beta&t=NEre48NtVpwRJcgtf-Ag3zuWAY1PJFs21rAribdvXMI">
-
 ```javascript
 class Betowalker16 {
     constructor() {
