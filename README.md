@@ -1,24 +1,21 @@
 
 <div align="center"><h1>Hola, soy Roberto Ramirez 👋</h1></div>
 
-```javascript
+```kotlin
 class Betowalker16 {
-    constructor() {
-        this.nombre = 'Roberto Ramirez Rios';
-        this.edad = 24;
-        this.ocupacion = 'Desarrollador Web Full Stack y Desarrollador de aplicaciones moviles android';
-        this.pais = 'Mexico';
+    val name: String = "Roberto Ramirez Rios"
+    val age: Int = 24
+    val occupation: String = "Android Application Developer with Kotlin and Jetpack Compose"
+    val country: String = "Mexico"
+
+    fun work(): String {
+        return "I currently work at UPAEP as a Full Stack UX Semi SR Developer"
     }
 
-    trabajo() {
-        return 'Actualmente trabajo en UPAEP con el puesto de Desarrollador Full Stack UX Semi SR';
-    }
-
-    pasatiempo() {
-        return 'Algunos de mis pasatiempos son videojuegos tanto de consola como PC y el voleibol';
+    fun hobbies(): String {
+        return "Some of my hobbies are playing video games on both console and PC, as well as playing volleyball"
     }
 }
-
 
 ```
 
