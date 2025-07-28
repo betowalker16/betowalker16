@@ -72,6 +72,6 @@ fun main() {
 - Email: roberto.ramirez162627@gmail.com
 - Location: Puebla, Mexico
 - [LinkedIn](https://www.linkedin.com/in/roberto-ramirez-rios-033825238/)
-- [Google Developers Profile](https://developers.google.com/profile/u/betowalker/edit?authuser=1&hl=es-419)
+- [Google Developers Profile](https://developers.google.com/profile/u/betowalker?authuser=1&hl=es-419)
 
 ---
