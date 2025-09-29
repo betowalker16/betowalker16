@@ -43,3 +43,5 @@ fun main() {
 - [Google Developers Profile](https://developers.google.com/profile/u/betowalker?authuser=1&hl=es-419)
 
 ---
+
+![Betowalker16's Stats](https://github-readme-stats.vercel.app/api?username=Betowalker16&theme=radical&show_icons=true&hide_border=false&count_private=true) ![Betowalker16's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Betowalker16&theme=radical&hide_border=false) ![Betowalker16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Betowalker16&theme=radical&show_icons=true&hide_border=false&layout=compact)
