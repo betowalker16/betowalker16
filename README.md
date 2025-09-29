@@ -13,23 +13,9 @@ object BetowalkerProfile {
         mobile development. Specialized in Kotlin, Jetpack Compose, and modern architectures, I strive to
         continuously improve the quality and user experience in every project.".trimIndent()
 
-    data class Contact(
-        val email: String,
-        val location: String,
-        val linkedin: String,
-        val googleDev: String
-    )
-
-    val contact = Contact(
-        email = "roberto.ramirez162627@gmail.com",
-        location = "Puebla, Mexico",
-        linkedin = "https://www.linkedin.com/in/roberto-ramirez-rios-033825238/",
-        googleDev = "https://developers.google.com/profile/u/betowalker/edit?authuser=1&hl=es-419"
-    )
-
     val technicalSkills = listOf(
         "Kotlin", "Jetpack Compose", "Java", "Git/GitHub",
-        "JavaScript", "PHP", "MySQL", "C/C++"
+        "JavaScript", "PHP", "MySQL", "C/C++", "Firebase"
     )
 
     val softSkills = listOf(
@@ -39,33 +25,15 @@ object BetowalkerProfile {
 
     val education = "Software Engineer - UPAEP (2019-2024)"
     val languages = listOf("Spanish (Native)", "English (Intermediate)")
-
-    fun printProfile() {
-        println("About Me: $aboutMe")
-        println("Technical Skills: ${technicalSkills.joinToString()}")
-        println("Soft Skills: ${softSkills.joinToString()}")
-        println("Education: $education")
-        println("Languages: ${languages.joinToString()}")
-        println("Contact: ${contact.email} | ${contact.location}")
-        println("LinkedIn: ${contact.linkedin}")
-        println("Google Developers: ${contact.googleDev}")
-    }
 }
 
 fun main() {
     BetowalkerProfile.printProfile()
 }
 ```
-## Technical Skills
+##  Skills
 
-- **Kotlin** ![Kotlin](https://img.shields.io/badge/Kotlin-white?logo=kotlin)
-- **Jetpack Compose** ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
-- **Java** ![Java](https://img.shields.io/badge/Java-red?logo=java)
-- **Git/GitHub** ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-- **PHP** ![PHP](https://img.shields.io/badge/PHP-white?logo=php)
-- **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql)
-- **C/C++** ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Compose-jetpack?style=for-the-badge&logo=Jetpack%20compose&color=f5f5f5) ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=BA478F) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 ## Contact
 
