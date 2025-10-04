@@ -28,7 +28,7 @@ object BetowalkerProfile {
 }
 
 fun main() {
-    BetowalkerProfile.printProfile()
+    BetowalkerProfile()
 }
 ```
 <h3>📱 Mobile Development</h3>
